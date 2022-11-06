@@ -1,0 +1,12 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg" class="ionicon">
+ <title>Leaf</title>
+
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="514" height="514" id="canvas_background" fill="none"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path d="m321.89,171.42c-88.89,-57.42 -180.89,-16.2 -265.89,-106.2c-19.8,-21 -8.3,235.5 98.1,332.7c77.79,71 197.9,63.08 238.4,-5.92s18.28,-163.17 -70.61,-220.58zm-148.89,81.58c86,81 175,129 292,147" fill="none" stroke="#fffffe" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" id="svg_1"/>
+ </g>
+</svg>
